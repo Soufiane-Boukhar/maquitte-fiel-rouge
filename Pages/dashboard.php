@@ -1,4 +1,4 @@
-<?php include '../layouts/header.php';session_start();
+<?php include '../layouts/header.php';;
 ?>
 
 <body class="hold-transition sidebar-mini">
